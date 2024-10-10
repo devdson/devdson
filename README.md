@@ -6,7 +6,7 @@
 
 ![Davidson's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdson&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdson&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdson&layout=compact&theme=dracula)
 
 ## Tecnologias que utilizo
 
