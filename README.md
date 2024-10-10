@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, make yourself at home 😉
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidson-soares-macedo-69a5652a2/)
 
@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdson&layout=donut&theme=dracula)
 
-## Tecnologias que utilizo
+## Favorite technologies
 
 <div style="display: inline_block"><br/>
 
