@@ -5,7 +5,7 @@
 <div>
 
   <img height="180cm" width="400cm" src="https://github-readme-stats.vercel.app/api?username=devdson&show_icons=true&theme=dracula"/> 
-  <img height="180cm" width="425cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdson&layout=compact&theme=dracula"/>
+  <img height="180cm" width="450cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdson&layout=compact&theme=dracula"/>
 
 </div>
 
