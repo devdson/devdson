@@ -26,5 +26,8 @@
   <img height="45cm" lenght="45cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
           
   <img height="45cm" lenght="45cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+  
+  <img height="45cm" lenght="45cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+          
       
 </div>
