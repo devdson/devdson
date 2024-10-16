@@ -23,6 +23,8 @@
 
   <img height="45cm" lenght="45cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
+  <i height="45cm" lenght="45cm" class="devicon-flask-original"></i>
+          
   <img height="45cm" lenght="45cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
                   
   <img height="45cm" lenght="45cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
