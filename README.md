@@ -15,7 +15,7 @@
 
   <img height="45cm" lenght="45cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-  <img height="60cm" lenght="60cm" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
+  <img height="50cm" lenght="60cm" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
 
   <img height="45cm" lenght="45cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 
