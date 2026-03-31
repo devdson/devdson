@@ -9,7 +9,7 @@
 
   <img height="45cm" lenght="45cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-  <img height="45cm" lenght="45cm" src="import programmingLanguagesLogosjava from 'https://cdn.jsdelivr.net/npm/@programming-languages-logos/java@0.0.0/+esm'" />
+  <img height="45cm" lenght="45cm" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/java@0.0.0/+esm" />
           
       
 </div>
